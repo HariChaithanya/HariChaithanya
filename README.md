@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I completed my ug in 2021 at crecent university, Chennai in Computer Science and engineering . After that i have joined Virtusa consulting services as servicenow developer.
+
+
 <!--
 **HariChaithanya/HariChaithanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
